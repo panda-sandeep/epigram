@@ -1,6 +1,7 @@
 import Exa from "exa-js";
 import { NewsArticle } from "@/types/newsArticle";
 
+// Exa is the fastest and most accurate web search API for AI
 const exa = new Exa(process.env.EXA_API_KEY);
 
 export const getContents = async (urls: string[]) => {
