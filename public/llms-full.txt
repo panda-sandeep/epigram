@@ -1,0 +1,3 @@
+# llms-full.txt (dummy)
+
+This is a placeholder file for LLM crawlers. Replace with real content later.
