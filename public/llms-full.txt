@@ -1,0 +1,38 @@
+# Epigram
+
+> Open-source, free, and AI-powered news in short. Epigram delivers bite-sized news summaries, real-time updates, and in-depth analysis from trusted sources, built for busy people.
+
+Epigram simplifies the way you stay informed. With AI, it delivers quick, clear summaries from reliable sources, so you get the news without the overwhelm. For more details, dive into deeper analysis or explore topics you care about — all in a feed tailored to your interests.
+
+Our goal is to use AI to make quality news easy to access, understand, and personalize. We're focused on connecting you with trusted sources while cutting through the noise, so you get the information that matters most.
+
+## How it works
+
+- **Personalized News Feed**: Get a curated news feed based on your preferences and interests.
+- **AI-powered Summaries**: Get concise news summaries and in-depth analysis.
+- **Trusted Sources**: Access news from reputable sources worldwide.
+- **AI Deep dive**: Get in-depth analysis of news articles using AI.
+
+## Pages
+
+- [Home](https://epigram.news/): The personalized news feed with AI-powered summaries.
+- [About](https://epigram.news/about): What Epigram is and how it works.
+- [Topics](https://epigram.news/topics): Browse news by topic.
+
+## Topics
+
+- General: Top headlines from around the world.
+- Business: Markets, companies, and the economy.
+- Entertainment: Movies, music, and culture.
+- Health: Medicine, wellness, and public health.
+- Science: Research and discoveries.
+- Sports: Scores, teams, and athletes.
+- Technology: Gadgets, software, and the tech industry.
+
+## Open source
+
+Epigram is open source under the GNU Affero General Public License v3.0 (AGPL-3.0). Contributions are welcome via pull requests and issues at the [source repository](https://github.com/panda-sandeep/epigram).
+
+## Optional
+
+- [Source repository](https://github.com/panda-sandeep/epigram): The open-source code behind Epigram, licensed under AGPL-3.0.
