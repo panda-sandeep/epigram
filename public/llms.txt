@@ -1,0 +1,5 @@
+# Epigram
+
+> Epigram is a minimal Next.js app for collecting and sharing epigrams.
+
+Dummy llms.txt file.
