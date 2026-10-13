@@ -1,0 +1,8 @@
+# Epigram
+
+> Open-Source, Free, and AI-Powered News in Short.
+
+Epigram is an AI-powered news app that delivers concise summaries from trusted sources. This is a placeholder llms.txt; detailed documentation for LLMs is coming soon.
+
+- [Home](https://epigram.news)
+- [About](https://epigram.news/about)
