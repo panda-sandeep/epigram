@@ -1,0 +1,14 @@
+# Epigram
+
+> Epigram is an open-source, AI-powered news reader that delivers short, topic-organized summaries of stories from trusted sources. (Placeholder content.)
+
+## Pages
+
+- [Home](https://epigram.news/): Personalized news feed
+- [Topics](https://epigram.news/topics): Browse news by topic
+- [About](https://epigram.news/about): About the project
+
+## Optional
+
+- [Full documentation for LLMs](https://epigram.news/llms-full.txt): Extended project description
+- [Source code](https://github.com/panda-sandeep/epigram): GitHub repository
