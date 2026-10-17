@@ -1,0 +1,16 @@
+# Epigram
+
+> Open-Source, Free, and AI-Powered News in Short. Epigram delivers quick, clear AI-generated summaries of news from trusted sources, organized into a personalized, topic-based feed.
+
+This is a placeholder llms.txt file. It will be expanded with detailed, LLM-friendly documentation in the future.
+
+## Pages
+
+- [Home](https://epigram.news/): The main personalized news feed with AI-powered summaries
+- [Topics](https://epigram.news/topics): Browse news organized by topic
+- [About](https://epigram.news/about): Learn more about Epigram and the team behind it
+
+## Optional
+
+- [Full documentation](https://epigram.news/llms-full.txt): Extended, single-file description of Epigram for LLMs
+- [Source code](https://github.com/panda-sandeep/epigram): Open-source repository (AGPL-3.0)
