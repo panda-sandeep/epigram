@@ -1,0 +1,41 @@
+# Epigram
+
+> Open-Source, Free, and AI-Powered News in Short. Epigram delivers quick, clear AI-generated summaries of news from trusted sources, organized into a personalized, topic-based feed.
+
+This is a placeholder llms-full.txt file. It will be expanded with complete, LLM-friendly documentation in the future.
+
+## Overview
+
+Epigram simplifies the way you stay informed. With AI, it delivers quick, clear summaries from reliable sources, so you get the news without the overwhelm. For more detail, dive into deeper analysis or explore topics you care about — all in a feed tailored to your interests.
+
+Our goal is to use AI to make quality news easy to access, understand, and personalize. We're focused on connecting you with trusted sources while cutting through the noise, so you get the information that matters most.
+
+## Features
+
+- Personalized News Feed: A curated feed based on your preferences and interests
+- AI-powered Summaries: Concise news summaries and in-depth analysis
+- Trusted Sources: News from reputable sources worldwide
+- User-friendly Interface: A sleek, intuitive interface for a seamless reading experience
+- Responsive Design: Works on any device; can be added to the home screen on Safari
+- AI Deep Dive: In-depth analysis of news articles using AI
+
+## Pages
+
+- Home (https://epigram.news/): The main personalized news feed with AI-powered summaries
+- Topics (https://epigram.news/topics): Browse news organized by topic
+- About (https://epigram.news/about): Learn more about Epigram and the team behind it
+
+## Tech Stack
+
+- Next.js: React framework for production
+- Exa: AI-powered news search
+- AI SDK and OpenAI: AI summaries and analysis with gpt-4o-mini
+- Mediastack: News data API
+- Upstash: Redis for caching and rate limiting
+- Google Cloud Run: Serverless deployment
+
+## Links
+
+- Website: https://epigram.news
+- Source code: https://github.com/panda-sandeep/epigram
+- License: GNU Affero General Public License v3.0 (AGPL-3.0)
