@@ -1,0 +1,18 @@
+# Epigram
+
+> AI-powered news in short for busy people. Epigram is an open-source news
+> reader that fetches stories from Mediastack and Exa, summarizes them with
+> OpenAI (gpt-4o-mini) via the Vercel AI SDK, and presents a fast,
+> topic-organized reading feed.
+
+Dummy placeholder file (llms-full.txt). Replace with the full generated
+llms.txt content for this site.
+
+## Docs
+
+- [README](https://github.com/panda-sandeep/epigram/blob/main/README.md): Project overview, features, and setup instructions.
+
+## Optional
+
+- [AI Insights API](/api/news/ai-insights): Optional deeper AI analysis of an individual story.
+- [News Populate API](/api/news/populate): Scheduled news ingestion endpoint (protected by a secret header).
