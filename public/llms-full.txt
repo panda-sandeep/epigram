@@ -1,0 +1,27 @@
+# Epigram
+
+> Open-source, free, and AI-powered news in short. Epigram delivers quick, clear AI summaries from reliable sources, so you get the news without the overwhelm.
+
+This is a dummy `llms-full.txt` placeholder. It will be expanded with the full text content of Epigram's pages in the future.
+
+## Pages
+
+- [Home](https://epigram.news/): Personalized, topic-organized news feed with bite-sized AI-powered summaries and swipeable reading.
+- [Topics](https://epigram.news/topics): Choose the news topics you're interested in — General, Business, Entertainment, Health, Science, Sports, and Technology — to personalize your feed.
+- [About](https://epigram.news/about): Learn about Epigram, an AI-powered news platform that delivers personalized, bite-sized summaries from trusted sources worldwide.
+
+## About Epigram
+
+Epigram simplifies the way you stay informed. With AI, it delivers quick, clear summaries from reliable sources, so you get the news without the overwhelm. For more detail, dive into deeper analysis or explore topics you care about — all in a feed tailored to your interests.
+
+## Features
+
+- Personalized news feed based on your preferences and interests
+- AI-powered summaries: concise news summaries and in-depth analysis
+- Trusted sources from reputable publishers worldwide
+- User-friendly, responsive interface (add to home screen on Safari)
+
+## Links
+
+- [Website](https://epigram.news)
+- [GitHub](https://github.com/panda-sandeep/epigram)
