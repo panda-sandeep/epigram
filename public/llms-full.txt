@@ -1,0 +1,14 @@
+# Epigram
+
+> Open-source, free, AI-powered news in short.
+
+This is a placeholder llms-full.txt. Replace it with full documentation content.
+
+## About
+
+Epigram is a news reader that fetches stories, summarizes them with AI, and presents a fast, topic-organized feed.
+
+## Links
+
+- Website: https://epigram.news
+- Source: https://github.com/panda-sandeep/epigram
