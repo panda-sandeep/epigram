@@ -1,0 +1,13 @@
+# Epigram
+
+> Placeholder llms.txt for Epigram, an open-source, free, AI-powered news app that delivers short news summaries. This file is a dummy and will be replaced with real content.
+
+## Pages
+
+- [Home](https://epigram.news/): Personalized feed of AI-summarized news
+- [Topics](https://epigram.news/topics): Browse and follow news topics
+- [About](https://epigram.news/about): About Epigram
+
+## Optional
+
+- [Full documentation](https://epigram.news/llms-full.txt): Expanded placeholder content for LLMs
