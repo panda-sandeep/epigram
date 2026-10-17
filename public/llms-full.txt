@@ -1,0 +1,34 @@
+# Epigram
+
+> Epigram is an open-source, AI-summarized personalized news reader built with Next.js.
+
+Epigram fetches stories from Mediastack and Exa, summarizes them with OpenAI
+gpt-4o-mini via the Vercel AI SDK, and presents a fast, topic-organized reading
+feed. The UI is responsive and swipeable, with PWA-style add-to-home-screen
+support.
+
+## Topics
+
+Users can browse a personalized feed organized by topics at `/topics`.
+
+## AI Insights
+
+In addition to default story summaries, an optional deeper AI analysis is
+available for individual stories via `/api/news/ai-insights`.
+
+## News Ingestion
+
+News ingestion runs through the cron-triggered `/api/news/populate` endpoint,
+which requires a secret header and caches fetched results in Upstash Redis for
+fast feed delivery.
+
+## Tech Stack
+
+- Next.js 15 (App Router), React 19
+- Tailwind CSS, Radix UI, Framer Motion, vaul
+- Vercel AI SDK with OpenAI gpt-4o-mini
+- Upstash Redis for caching, rate limiting
+- Mediastack and Exa as news sources
+
+Note: this is a placeholder (dummy) llms-full.txt intended for future
+expansion with real, curated documentation for LLM consumption.
