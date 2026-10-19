@@ -1,0 +1,10 @@
+# Epigram
+
+> Open-source, free, AI-powered news in short.
+
+This is a dummy llms.txt file for testing and will be expanded later.
+
+## Links
+
+- [Website](https://epigram.news): Read concise news summaries.
+- [Source code and documentation](https://github.com/panda-sandeep/epigram): Project overview and setup instructions.
