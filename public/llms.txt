@@ -1,0 +1,11 @@
+# Epigram
+
+> Open-source, free, AI-powered news in short. Epigram delivers quick, clear summaries of news from reliable sources.
+
+This is a placeholder llms.txt file.
+
+## Links
+
+- [Website](https://epigram.news): Live app
+- [Source code](https://github.com/panda-sandeep/epigram): GitHub repository
+- [License](https://github.com/panda-sandeep/epigram/blob/main/LICENSE.md): AGPL-3.0
