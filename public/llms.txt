@@ -1,0 +1,16 @@
+# Epigram
+
+> Open-Source, Free, and AI-Powered News in Short. Epigram delivers concise AI-generated summaries from trusted news sources.
+
+This is a placeholder (dummy) llms.txt file. Replace it with real content describing the site's structure for LLMs.
+
+## Site
+
+- [Home](/): AI-powered personalized news feed
+- [Topics](/topics): Browse news by topic
+- [About](/about): About Epigram
+
+## API
+
+- [News](/api/news): News feed API
+- [AI Insights](/api/news/ai-insights): Optional deeper AI analysis for an individual story
