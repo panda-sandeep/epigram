@@ -1,0 +1,38 @@
+# Epigram
+
+> Open-Source, Free, and AI-Powered News in Short. Epigram uses AI to deliver quick, clear summaries from reliable sources, so you get the news without the overwhelm.
+
+Epigram is an open-source web application that simplifies how you stay informed. It combines AI-powered summaries with trusted sources to create a news feed tailored to your interests.
+
+## Features
+
+- Personalized news feed: a curated feed based on your preferences and interests.
+- AI-powered summaries: concise news summaries and in-depth analysis.
+- Trusted sources: news from reputable sources worldwide.
+- User-friendly interface: a sleek, intuitive reading experience.
+- Responsive design: works on desktop and mobile, with add-to-home-screen support.
+- AI deep dive: in-depth AI analysis of individual news articles.
+
+## Tech Stack
+
+- Next.js (React) web framework
+- AI SDK with OpenAI (gpt-4o-mini) for summaries and analysis
+- Exa for news discovery
+- Mediastack for news data
+- Upstash Redis for caching and rate limiting
+
+## API Endpoints
+
+- GET /api/news: fetches the latest AI-summarized news feed.
+- POST /api/news/ai-insights: generates deeper AI analysis for an individual story.
+
+## Links
+
+- Website: https://epigram.news
+- Source code: https://github.com/panda-sandeep/epigram
+- License: AGPL-3.0
+
+---
+
+Note: this is a dummy placeholder file intended to be replaced with full,
+up-to-date documentation following the llmstxt.org convention.
