@@ -1,0 +1,41 @@
+# Epigram
+
+> Epigram is a personal news digest app: it fetches the latest stories across
+> topics, surfaces related background sources, and generates AI-powered
+> insights for them.
+
+This is a dummy placeholder file following the llms-full.txt convention
+(https://llmstxt.org). Replace it with real, full-text documentation when the
+project has any.
+
+## What it does
+
+- A cron-protected route fetches the latest headlines per topic (business,
+  entertainment, general, health, science, sports, technology) via the
+  MediaStack API and stores them in Redis.
+- For a given query, it finds related background reading with the Exa search
+  API.
+- It generates concise AI insights for a set of source articles using the
+  OpenAI API.
+- Stories and insights are cached and rate-limited through Upstash Redis.
+
+## Pages
+
+- `/`: the main feed of today's stories, grouped by topic.
+- `/about`: what Epigram is and how it works.
+- `/topics`: topic index.
+
+## API routes
+
+- `GET /api/news?categories=<comma,separated,topics>`: cached stories for the
+  given categories (defaults to general,technology,science,health).
+- `POST /api/news/ai-insights`: request body `{ sources: NewsArticle[] }`;
+  returns a streamed AI insight for the given sources (rate-limited).
+- `GET /api/news/ai-insights/sources?query=<text>`: related source links for
+  a query, found via Exa (rate-limited).
+- `GET /api/news/populate`: cron-protected route that refreshes the news
+  cache; requires the secret header named by EPIGRAM_SECRET_HEADER_NAME.
+
+## Notes
+
+- All content above is illustrative placeholder text for build purposes.
