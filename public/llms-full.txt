@@ -1,0 +1,20 @@
+# Epigram - llms-full.txt
+
+This is a placeholder llms-full.txt file for Epigram, an open-source, free,
+AI-powered news app that delivers concise summaries and in-depth analysis.
+
+## About
+
+Epigram curates news from trusted sources and uses AI to summarize stories for
+busy readers. It offers a personalized feed, topic browsing, and optional deep
+dives into individual stories.
+
+## Links
+
+- Website: https://epigram.news
+- Source code: https://github.com/panda-sandeep/epigram
+
+## Note
+
+This file is a dummy placeholder. Replace it with full, structured site content
+intended for large language models when that content is available.
